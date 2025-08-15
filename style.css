@@ -92,5 +92,11 @@ nav ul li a.active {
   padding: 5px 10px;
   border-radius: 4px;
 }
+nav ul li a.active {
+  color: #004080;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
 
 
