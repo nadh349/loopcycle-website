@@ -51,4 +51,3 @@ This is a responsive multi-page website for **LoopCycle Co.**, a sustainable mon
 
 Developed by **Nisha Adhikari**  
 © 2025 LoopCycle Co. (Mock brand for academic project)
-
