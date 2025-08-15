@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LoopCycle Co. - Contact</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="script.js" defer></script>
+</head>
+<body>
+
+  <header>
+    <h1>LoopCycle Co.</h1>
+    <p>Your monthly subscription to city bikes made easy.</p>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="plans.html">Plans</a></li>
+        <li><a href="features.html">Features</a></li>
+        <li><a href="faqs.html">FAQs</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="about.html">About</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section>
+    <h2>Contact Us</h2>
+
+    <form name="contactForm" onsubmit="return validateForm()" aria-label="Contact form">
+      <p id="form-msg" style="color: green; font-weight: bold;"></p>
+
+      <label for="name">Name:</label><br>
+      <input type="text" id="name" name="name" placeholder="Enter your name" required><br><br>
+
+      <label for="email">Email:</label><br>
+      <input type="email" id="email" name="email" placeholder="Enter your email" required><br><br>
+
+      <label for="message">Message:</label><br>
+      <textarea id="message" name="message" placeholder="Type your message" required></textarea><br><br>
+
+      <input type="submit" value="Send">
+    </form>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 LoopCycle Co. | All rights reserved</p>
+  </footer>
+  <a href="contact.html" class="floating-btn" title="Contact Us">
+  📞 <span>Contact</span>
+</a>
+
+
+</body>
+</html>
