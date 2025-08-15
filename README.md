@@ -5,7 +5,7 @@ This is a responsive multi-page website for **LoopCycle Co.**, a sustainable mon
 ---
 
 ## 🌐 Live Site (GitHub Pages)
-➡️ https://nadh349.github.io/loopcycle-website/ *(Replace with your actual link)*
+➡️ https://nadh349.github.io/loopcycle-website/ 
 
 ---
 
