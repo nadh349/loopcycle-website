@@ -86,3 +86,11 @@ nav ul li a.active {
   opacity: 1;
   transform: translateY(0);
 }
+nav ul li a.active {
+  color: #fff; /* white might be invisible */
+  background-color: #004080; /* or any dark blue */
+  padding: 5px 10px;
+  border-radius: 4px;
+}
+
+
